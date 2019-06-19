@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 public class ScatterGatherLabTestCase extends FunctionalTestCase {
 
-    private final int NO_OF_BIDS = 100;
+    private final int NO_OF_BIDS = 250;
 
     @Override
     protected void doSetUp() throws Exception {
